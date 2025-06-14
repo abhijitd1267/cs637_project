@@ -1,5 +1,5 @@
 # 🧠 Sound Mixed Fixed-Point Quantization of Neural Networks
-*CS637: Embedded and Cyber-Physical Systems Project*  
+*CS637: Embedded and Cyberphysical Systems Course Project*  
 *👤 Abhijit Dalai (220030), Abhishek Kumar (220045), Aryan Singh (220229), Ayush Srivastava (220272)*
 
 ## ✨ Overview
