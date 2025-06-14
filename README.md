@@ -1,6 +1,6 @@
 # 🧠 Sound Mixed Fixed-Point Quantization of Neural Networks
 *CS637: Embedded and Cyberphysical Systems Course Project*  
-*👤 Abhijit Dalai (220030), Abhishek Kumar (220045), Aryan Singh (220229), Ayush Srivastava (220272)*
+*👤 Abhijit Dalai, Abhishek Kumar, Aryan Singh, Ayush Srivastava*
 
 ## ✨ Overview
 This project explores **sound mixed fixed-point quantization of neural networks** for safe, efficient deployment in embedded and cyber-physical systems. Our work adapts the EMSOFT 2023 approach using open-source tools and demonstrates it on a real neural network controller.
